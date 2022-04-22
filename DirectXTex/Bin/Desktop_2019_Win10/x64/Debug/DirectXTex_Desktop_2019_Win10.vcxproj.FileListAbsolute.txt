@@ -16,3 +16,4 @@ C:\DirectX\DirectX7-2_class_model - コピー\DirectXTex\Bin\Desktop_2019_Win10\
 C:\DirectX\DirectX7-2_class_model_sprite\DirectXTex\Bin\Desktop_2019_Win10\x64\Debug\DirectXTex.lib
 C:\DirectX\DirectX7-2_class_model_sprite - コピー (2)\DirectXTex\Bin\Desktop_2019_Win10\x64\Debug\DirectXTex.lib
 C:\LE3B\CG4\DirectX_FBX\DirectXTex\Bin\Desktop_2019_Win10\x64\Debug\DirectXTex.lib
+C:\Users\81803\Documents\cg4_2\DirectXTex\Bin\Desktop_2019_Win10\x64\Debug\DirectXTex.lib
