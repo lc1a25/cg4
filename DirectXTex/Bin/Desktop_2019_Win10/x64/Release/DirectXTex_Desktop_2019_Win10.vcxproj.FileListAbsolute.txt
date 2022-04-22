@@ -1,0 +1,4 @@
+C:\DirectX\DirectX7-2_class_model - コピー\DirectXTex\Bin\Desktop_2019_Win10\x64\Release\DirectXTex.lib
+C:\DirectX\DirectX7-2_class_model_sprite\DirectXTex\Bin\Desktop_2019_Win10\x64\Release\DirectXTex.lib
+C:\DirectX\DirectX7-2_class_model_sprite - コピー (2)\DirectXTex\Bin\Desktop_2019_Win10\x64\Release\DirectXTex.lib
+C:\LE3B\CG4\DirectX_FBX\DirectXTex\Bin\Desktop_2019_Win10\x64\Release\DirectXTex.lib

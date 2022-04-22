@@ -1,0 +1,18 @@
+C:\DirectX\DirectX6-3\DirectXTex\Bin\Desktop_2019_Win10\x64\Debug\DirectXTex.lib
+C:\DirectX\DirectX_6-7_class\DirectXTex\Bin\Desktop_2019_Win10\x64\Debug\DirectXTex.lib
+C:\DirectX\DirectX_7-2\DirectXTex\Bin\Desktop_2019_Win10\x64\Debug\DirectXTex.lib
+C:\DirectX\DirectX_7-2 - コピー\DirectXTex\Bin\Desktop_2019_Win10\x64\Debug\DirectXTex.lib
+C:\DirectX\DirectX_7-2 - コピー - コピー\DirectXTex\Bin\Desktop_2019_Win10\x64\Debug\DirectXTex.lib
+C:\DirectX\1-2\DirectXTex\Bin\Desktop_2019_Win10\x64\Debug\DirectXTex.lib
+C:\DirectX\DirectX7-2 - コピー\DirectXTex\Bin\Desktop_2019_Win10\x64\Debug\DirectXTex.lib
+C:\DirectX\DirectX7-2_class\DirectXTex\Bin\Desktop_2019_Win10\x64\Debug\DirectXTex.lib
+C:\DirectX\DirectX7-2_class_input\DirectXTex\Bin\Desktop_2019_Win10\x64\Debug\DirectXTex.lib
+C:\DirectX\DirectX7-2_class_input_win\DirectXTex\Bin\Desktop_2019_Win10\x64\Debug\DirectXTex.lib
+C:\DirectX\DirectX7-2_class_input_win - コピー\DirectXTex\Bin\Desktop_2019_Win10\x64\Debug\DirectXTex.lib
+C:\DirectX\DirectX7-2_class_input_win - コピー - コピー (2)\DirectXTex\Bin\Desktop_2019_Win10\x64\Debug\DirectXTex.lib
+C:\DirectX\DirectX7-2_class_input_win_dxcom_ob3d1 - コピー\DirectXTex\Bin\Desktop_2019_Win10\x64\Debug\DirectXTex.lib
+C:\DirectX\DirectX7-2_class_model\DirectXTex\Bin\Desktop_2019_Win10\x64\Debug\DirectXTex.lib
+C:\DirectX\DirectX7-2_class_model - コピー\DirectXTex\Bin\Desktop_2019_Win10\x64\Debug\DirectXTex.lib
+C:\DirectX\DirectX7-2_class_model_sprite\DirectXTex\Bin\Desktop_2019_Win10\x64\Debug\DirectXTex.lib
+C:\DirectX\DirectX7-2_class_model_sprite - コピー (2)\DirectXTex\Bin\Desktop_2019_Win10\x64\Debug\DirectXTex.lib
+C:\LE3B\CG4\DirectX_FBX\DirectXTex\Bin\Desktop_2019_Win10\x64\Debug\DirectXTex.lib

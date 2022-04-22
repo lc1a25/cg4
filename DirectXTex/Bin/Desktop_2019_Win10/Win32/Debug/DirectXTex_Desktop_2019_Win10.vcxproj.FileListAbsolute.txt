@@ -1,0 +1,2 @@
+C:\DirectX\DirectX6-3\DirectXTex\Bin\Desktop_2019_Win10\Win32\Debug\DirectXTex.lib
+C:\DirectX\DirectX_7-2\DirectXTex\Bin\Desktop_2019_Win10\Win32\Debug\DirectXTex.lib
